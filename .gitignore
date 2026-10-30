@@ -1,0 +1,20 @@
+# Downloaded protein databases
+/9606.protein.aliases.v12.5.txt/
+/9606.protein.links.v12.5.txt/
+
+# Downloaded cancer gene census datasets
+/Cosmic_CancerGeneCensus_Tsv_v104_GRCh37/
+/Cosmic_CancerGeneCensus_Tsv_v104_GRCh38/
+
+# TCGA gene expression data
+/data/tcga/expression/
+
+# Temporary installation files
+/_tmp_torch_install/
+
+/outputs/
+
+NCG_cancerdrivers_annotation_supporting_evidence.tsv
+NCG_cancerdrivers_systemslevelproperties.tsv
+
+data/
